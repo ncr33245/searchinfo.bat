@@ -8,9 +8,7 @@ This repository contains a batch file named `searchinfo.bat` that you can downlo
    - Click on the `searchinfo.bat` file in the repository.
    - On the file page, click the "Download" button below.
 
-   <a href="searchinfo.bat" download>
-       <button>Download searchinfo.bat</button>
-   </a>
+   [<button onclick="window.location.href='searchinfo.bat'" style="cursor:pointer;">Download searchinfo.bat</button>](searchinfo.bat)
 
 2. **Save the File:**
    - Choose a location on your computer to save the file.
